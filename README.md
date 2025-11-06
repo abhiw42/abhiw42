@@ -10,7 +10,7 @@
 
 ## 🌱 About Me  
 
-- 👨‍💻 I’m a **Data Analyst** with a **Bachelor’s in Computer Applications**.  
+- 👨‍💻 Aspiring **Data Analyst** with a **Bachelor’s in Computer Applications**.  
 - 📊 I enjoy working with **Python, SQL, and Power BI** to uncover insights and visualize trends.  
 - 🧩 I’ve built multiple projects on **EDA, SQL analysis, and NLP-based sentiment modeling**.  
 - 📈 I love exploring how data can enhance **business intelligence and strategy**.  
